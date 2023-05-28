@@ -5,4 +5,4 @@ Building a data lake solution for bikeshare project in Azure databricks. The bik
 The star schema will be designed to reflect these business outcomes:
 1.	Analyze how much time is spent per ride • Based on date and time factors such as day of week and time of day • Based on which station is the starting and / or ending station • Based on age of the rider at time of the ride • Based on whether the rider is a member or a casual rider
 2.	Analyze how much money is spent • Per month, quarter, year • Per member, based on the age of the rider at account start
-3.	EXTRA CREDIT - Analyze how much money is spent per member • Based on how many rides the rider averages per month • Based on how many minutes the rider spends on a bike per month
+
